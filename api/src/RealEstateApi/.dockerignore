@@ -1,0 +1,13 @@
+
+bin
+obj
+*.user
+*.swp
+*.suo
+*.tmp
+*.log
+*.DS_Store
+.vs
+node_modules
+**/*.Secrets.json
+**/secrets.json

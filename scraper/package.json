@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "queue.js",
+  "scripts": {
+    "start": "node queue.js",
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "bull": "^4.10.0",
+    "cheerio": "^1.0.0-rc.12",
+    "pg": "^8.11.0",
+    "ioredis": "^5.3.2"
+  }
+}
