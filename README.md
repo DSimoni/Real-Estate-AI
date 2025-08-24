@@ -85,15 +85,6 @@ node index.js
 
 ---
 
-## 📌 Roadmap
-
-* [ ] Add more marketplaces (e.g., Greece, Albania regions)
-* [ ] Implement advanced filtering in Next.js dashboard
-* [ ] Add WebSocket support for real-time updates
-* [ ] Dockerize all services for easier deployment
-
----
-
 ## 📄 License
 
 MIT License – free to use and modify.
